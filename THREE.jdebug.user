@@ -1,0 +1,27 @@
+
+
+OpenDocument="alg_quaternionEKF.c", FilePath="C:/Users/ghko5/Desktop/Omni_Infantry/Three-Omni/Src/Algorithm/alg_quaternionEKF.c", Line=300
+OpenDocument="main.c", FilePath="C:/Users/ghko5/Desktop/Omni_Infantry/Three-Omni/Core/Src/main.c", Line=65
+OpenDocument="stm32f4xx_hal_can.c", FilePath="C:/Users/ghko5/Desktop/Omni_Infantry/Three-Omni/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c", Line=1408
+OpenDocument="stm32f4xx_hal.c", FilePath="C:/Users/ghko5/Desktop/Omni_Infantry/Three-Omni/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c", Line=318
+OpenDocument="stm32f4xx_hal_spi.c", FilePath="C:/Users/ghko5/Desktop/Omni_Infantry/Three-Omni/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c", Line=1270
+OpenDocument="periph_bmi088.c", FilePath="C:/Users/ghko5/Desktop/Omni_Infantry/Three-Omni/Src/Periphal/periph_bmi088.c", Line=11
+OpenDocument="app_ins.c", FilePath="C:/Users/ghko5/Desktop/Omni_Infantry/Three-Omni/Src/Application/app_ins.c", Line=24
+OpenDocument="tasks.c", FilePath="C:/Users/ghko5/Desktop/Omni_Infantry/Three-Omni/Middlewares/Third_Party/FreeRTOS/Source/tasks.c", Line=3033
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=404, h=876, TabPos=0, TopOfStack=1, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Watched Data 1", DockArea=RIGHT, x=0, y=0, w=783, h=903, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=404, h=876, TabPos=1, TopOfStack=0, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=BOTTOM, x=0, y=0, w=745, h=502, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=1, y=0, w=1814, h=502, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="100 s", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="0;0", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="1520;86", CodeGraphLegendShown=0, CodeGraphLegendPosition="1411;0"
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[2226;104;100;100;110]
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status"], ColWidths=[233;145]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Refresh"], ColWidths=[367;310;102]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;340]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time"], ColWidths=[100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[566;100;100;100;100;122;146;170;170]
+WatchedExpression="INS", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="BMI088_BMI088Data", RefreshRate=5, Window=Watched Data 1
